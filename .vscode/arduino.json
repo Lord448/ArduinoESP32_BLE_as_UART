@@ -1,0 +1,8 @@
+{
+    "sketch": "ArduinoESP32_BLEasUART.ino",
+    "output": "build",
+    "configuration": "FlashSize=4M,PSRAM=enabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:esp32wroverkit",
+    "port": "/dev/ttyUSB0",
+    "programmer": "esptool"
+}

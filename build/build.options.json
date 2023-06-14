@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..,../../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32wroverkit:FlashSize=4M,PSRAM=enabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+  "hardwareFolders": "/home/lord448/.arduino15/packages",
+  "otherLibrariesFolders": "/home/lord448/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/lord448/Escritorio/Repos/OwnLibs/ArduinoESP32_BLEasUART"
+}
